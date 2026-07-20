@@ -1,3 +1,3 @@
 # Welcome
 
-This is our website's source code!
+This is the legacy version website of GoThemes.
